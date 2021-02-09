@@ -2,7 +2,7 @@
 
 
 
-To run the code
+To run the project
 1. clone the repo 
 ``` git clone https://github.com/rahul-art/hand-prevention-for-factory-worker.git ```
 2. create seprate environment
