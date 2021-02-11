@@ -9,7 +9,7 @@ To run the project
 ``` conda create -n hand_safety python=3.6 ```
 3. install requirements 
 ``` pip install -r requirements.txt ```
-4. run hand_detection.py file then you get the output similar as follows:
+4. run hand_detection.py file ``` python hand_detection.py ```then you get the output similar as follows:
 ![alt text](https://github.com/rahul-art/hand-prevention-for-factory-worker/blob/main/example.png?raw=true)
 
 here the red line below blue line is safety line if hand crosses that line it will raise an alarm and stop the machine 
